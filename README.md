@@ -9,7 +9,12 @@
 ## 3. Buscamos la documentación de Docker
 ## 4. Creamos un Docker-Compose.yml
 
-![img2](Worldpress\captura2.png)
+![img2](https://github.com/cristianmoreiraa/WordPress/blob/main/captura2.png)
+
+- Breve explicación del código anterior:
+    * Para almacenar la información usaremos `MariaDB`. Esta BDatos usa los puertos 3306 y 33060 para que el resto de los servicios se puedan comunicar con ella.
+    * Usamos la imagen más actualizada de WordPress, plataforma que usaremos para la administración y creación de la página web.
+    * WordPress usa el puerto 80.
 ## 5. Iniciamos el contenedor: `docker compose up -d`
 - Tras iniciar el contenedor, abrimos nuestro buscador y bien escribimos `localhost` o `nuestra IP`, deberíamos de ver algo así
 
