@@ -1,4 +1,5 @@
 # Pasos para levantar un WorldPress
 
 
-![captura](/Worldpress/captura.png)
+![captura](https://github.com/cristianmoreiraa/WordPress/blob/main/captura.png)
+
