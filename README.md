@@ -9,7 +9,7 @@
 ## 3. Buscamos la documentación de Docker
 ## 4. Creamos un Docker-Compose.yml
 
-![img2]()
+![img2](Worldpress\captura2.png)
 ## 5. Iniciamos el contenedor: `docker compose up -d`
 - Tras iniciar el contenedor, abrimos nuestro buscador y bien escribimos `localhost` o `nuestra IP`, deberíamos de ver algo así
 
