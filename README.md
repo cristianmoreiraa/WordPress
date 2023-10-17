@@ -19,3 +19,6 @@
 - Tras iniciar el contenedor, abrimos nuestro buscador y bien escribimos `localhost` o `nuestra IP`, deberíamos de ver algo así
 
 ![img1](https://github.com/cristianmoreiraa/WordPress/blob/main/captura.png)
+
+
+![img3](https://github.com/cristianmoreiraa/WordPress/blob/main/miip.png)
